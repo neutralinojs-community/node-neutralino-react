@@ -1,0 +1,23 @@
+{
+  "name": "node-neutralino-react",
+  "version": "1.0.0",
+  "repository": "neutralinojs-community/node-neutralino-react",
+  "license": "MIT",
+  "description": "A simple Vite React.js Typescript template for building Neutralinojs apps with Project Runner.",
+  "main": "server.ts",
+  "scripts": {
+    "dev": "neu run",
+    "build": "neu build --clean",
+    "runner:dev": "tsx ./server.ts",
+    "runner:install": "npm install",
+    "runner:build": "tsc"
+  },
+  "author": "neutralinojs-community",
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "tsx": "^4.17.0"
+  },
+  "dependencies": {
+    "node-neutralino": "^0.0.1"
+  }
+}
