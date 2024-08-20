@@ -41,7 +41,7 @@
       "buildCommand": "npm run build",
       "waitTimeout": 40000
     },
-    "projectRunner": {
+    "hostProject": {
       "projectPath": "/",
       "buildPath": "./node-src/dist/",
       "initCommand": "npm run runner:install",  
