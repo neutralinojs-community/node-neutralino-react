@@ -1,7 +1,7 @@
 {
   "name": "@neutralinojs-contrib/nodeneutralinoreact",
   "package-name": "node-neutralino-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "neutralinojs-community/node-neutralino-react",
   "license": "MIT",
     "publishConfig": {
